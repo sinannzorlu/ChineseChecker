@@ -6,4 +6,5 @@
  *
  */
 module Javaprog {
+	requires java.desktop;
 }
